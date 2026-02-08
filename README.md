@@ -1,4 +1,4 @@
-# CAD-Automation-Projects
+# CAD Automation Projects
 ### Calibre based Signal Tracer
 - Wrote a SVRF runset to trace the input Signals and dump it in stream-in Library.
 ### Floating Net Check
